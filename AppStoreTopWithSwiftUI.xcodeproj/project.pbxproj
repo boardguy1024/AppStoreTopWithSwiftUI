@@ -19,6 +19,8 @@
 		A2C4D6D924A7059600C72D5D /* AppsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C4D6D824A7059600C72D5D /* AppsPage.swift */; };
 		A2C4D6DB24A705A200C72D5D /* SearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C4D6DA24A705A200C72D5D /* SearchPage.swift */; };
 		A2C4D6DD24A706D900C72D5D /* TabBarPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C4D6DC24A706D900C72D5D /* TabBarPage.swift */; };
+		A2C4D6DF24A71AB400C72D5D /* FeaturedPostPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C4D6DE24A71AB400C72D5D /* FeaturedPostPage.swift */; };
+		A2C4D6E124A72A9000C72D5D /* RecommendedGamesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C4D6E024A72A9000C72D5D /* RecommendedGamesPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		A2C4D6D824A7059600C72D5D /* AppsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppsPage.swift; sourceTree = "<group>"; };
 		A2C4D6DA24A705A200C72D5D /* SearchPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchPage.swift; sourceTree = "<group>"; };
 		A2C4D6DC24A706D900C72D5D /* TabBarPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarPage.swift; sourceTree = "<group>"; };
+		A2C4D6DE24A71AB400C72D5D /* FeaturedPostPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedPostPage.swift; sourceTree = "<group>"; };
+		A2C4D6E024A72A9000C72D5D /* RecommendedGamesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendedGamesPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,10 +77,12 @@
 				A2C4D6C224A7050B00C72D5D /* ContentView.swift */,
 				A2C4D6D224A7056100C72D5D /* TodayPage.swift */,
 				A2C4D6D424A7056F00C72D5D /* GamesPage.swift */,
+				A2C4D6E024A72A9000C72D5D /* RecommendedGamesPage.swift */,
 				A2C4D6D824A7059600C72D5D /* AppsPage.swift */,
 				A2C4D6DA24A705A200C72D5D /* SearchPage.swift */,
 				A2C4D6D624A7057E00C72D5D /* ArcadePage.swift */,
 				A2C4D6DC24A706D900C72D5D /* TabBarPage.swift */,
+				A2C4D6DE24A71AB400C72D5D /* FeaturedPostPage.swift */,
 				A2C4D6C424A7050D00C72D5D /* Assets.xcassets */,
 				A2C4D6C924A7050D00C72D5D /* LaunchScreen.storyboard */,
 				A2C4D6CC24A7050D00C72D5D /* Info.plist */,
@@ -168,10 +174,12 @@
 				A2C4D6BF24A7050B00C72D5D /* AppDelegate.swift in Sources */,
 				A2C4D6D524A7056F00C72D5D /* GamesPage.swift in Sources */,
 				A2C4D6C124A7050B00C72D5D /* SceneDelegate.swift in Sources */,
+				A2C4D6E124A72A9000C72D5D /* RecommendedGamesPage.swift in Sources */,
 				A2C4D6D724A7057E00C72D5D /* ArcadePage.swift in Sources */,
 				A2C4D6D924A7059600C72D5D /* AppsPage.swift in Sources */,
 				A2C4D6DD24A706D900C72D5D /* TabBarPage.swift in Sources */,
 				A2C4D6DB24A705A200C72D5D /* SearchPage.swift in Sources */,
+				A2C4D6DF24A71AB400C72D5D /* FeaturedPostPage.swift in Sources */,
 				A2C4D6C324A7050B00C72D5D /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
